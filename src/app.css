@@ -11,3 +11,7 @@
 #dialog\:s1\:content > aside > nav > a:nth-child(2) > div.text-xs {
     text-align: center;
 }
+
+body > div > div.grid.h-screen.grid-rows-\[auto_1fr_auto\] > header > section > div:nth-child(1) {
+    cursor: pointer;
+}
