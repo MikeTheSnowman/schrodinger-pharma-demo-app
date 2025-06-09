@@ -1,2 +1,13 @@
 @import 'tailwindcss';
 @plugin '@tailwindcss/typography';
+
+@import '@skeletonlabs/skeleton';
+@import '@skeletonlabs/skeleton/optional/presets';
+@import '@skeletonlabs/skeleton/themes/cerberus';
+
+@source '../node_modules/@skeletonlabs/skeleton-svelte/dist';
+@import './QuantumPharma';
+
+#dialog\:s1\:content > aside > nav > a:nth-child(2) > div.text-xs {
+    text-align: center;
+}
