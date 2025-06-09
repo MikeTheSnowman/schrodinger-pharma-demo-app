@@ -67,8 +67,6 @@
 						{#snippet tiles()}
 							<Navigation.Tile href="/" id="home" label="Home"><House /></Navigation.Tile>
 							<Navigation.Tile href="/catalog" id="medicine" label="Medicine Catalog"><Pill /></Navigation.Tile>
-							<!-- <Navigation.Tile id="music" label="Music"><IconMusic /></Navigation.Tile> -->
-							<!-- <Navigation.Tile id="videos" label="Videos"><IconVideo /></Navigation.Tile> -->
 						{/snippet}
 					</Navigation.Rail>
 					<footer>
