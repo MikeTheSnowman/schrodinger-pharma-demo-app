@@ -16,7 +16,7 @@
 			</span>
 		</DrugCard>
 
-		<!-- <DrugCard
+		<DrugCard
 			medicationId="phoenix-down"
 			imageUrl="https://cdn.wayfinderdb.com/Icons/Resources/ResourceIcon_TreasurePhoenixDown.png"
 		>
@@ -24,6 +24,6 @@
 			<span slot="description">
 				Phoenix Downs are used to revive characters who have been knocked out in battle.
 			</span>
-		</DrugCard> -->
+		</DrugCard>
 	</div>
 </div>
